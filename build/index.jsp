@@ -12,7 +12,10 @@
 <div class="home-container">
     <h1>Bienvenue sur l'application de gestion de films</h1>
     <p style="margin:30px 0;">
-        <a href="${pageContext.request.contextPath}/films">Voir les films</a>
-        <a href="${pageContext.request.contextPath}/categories">Voir les categories</a>
+        <a href="${pageContext.request.contextPath}/employe/paiement_salaire">Le payement salaire</a>
+        <a href="${pageContext.request.contextPath}/penalite/">La Pénalité </a>
+        <a href="${pageContext.request.contextPath}/depense/">Les Dépenses </a>
+        <a href="${pageContext.request.contextPath}/poste/">Les Postes </a>
+        <a href="${pageContext.request.contextPath}/employe/">Les employes </a>
     </p>
 </div>
