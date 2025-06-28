@@ -17,5 +17,8 @@
         <a href="${pageContext.request.contextPath}/depense/">Les Dépenses </a>
         <a href="${pageContext.request.contextPath}/poste/">Les Postes </a>
         <a href="${pageContext.request.contextPath}/employe/">Les employes </a>
+        <a href="${pageContext.request.contextPath}/composant/">Les Composants </a>
+        <a href="${pageContext.request.contextPath}/type_composant/">Les Types composants </a>
+        <a href="${pageContext.request.contextPath}/unite/">Unites </a>
     </p>
 </div>
